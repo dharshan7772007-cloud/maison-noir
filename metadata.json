@@ -1,0 +1,6 @@
+{
+  "name": "MAISON NOIR — Luxury Fashion House",
+  "description": "Premium luxury fashion e-commerce featuring high-tailoring, silk, cashmere, interactive collections, responsive cart, and editorial lookbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
